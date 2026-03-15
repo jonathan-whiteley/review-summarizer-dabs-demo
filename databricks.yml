@@ -25,5 +25,3 @@ targets:
     permissions:
       - level: CAN_MANAGE
         user_name: jonathan.whiteley@databricks.com
-      - level: CAN_VIEW
-        group_name: "users"
